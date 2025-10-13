@@ -1,6 +1,6 @@
 # Kanban-board-Progetto
 
-Viene sviluppata un'applicazione destinata alla gestione di processo volta alla suddivisione di uno o più obiettivi in molteplici compiti di calibro inferiore, ognuno con caratteristiche proprie, quali 
+Viene sviluppata un'applicazione destinata alla gestione di processo volta alla suddivisione di uno o più obiettivi in molteplici compiti di calibro inferiore, ognuno con caratteristiche proprie, quali nome, descrizione, priorità, scadenza e membro del team addetto al completamento del compito. È possibile creare nuovi obiettivi (issue) a piacere in base alle proprie necessità e spostarlitra quattro categorie in base allo stato di completamento di ciascuno: "Backlog", "In Progress", "Review" e "Done".
 
 Requisiti funzionali: descrivono le funzioni e i servizi che il sistema deve offrire.
 	facile comprensione delle attività da svolgere
