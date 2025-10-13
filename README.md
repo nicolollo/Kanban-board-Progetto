@@ -1,4 +1,7 @@
-# Kanban-board-Progeto
+# Kanban-board-Progetto
+
+Viene sviluppata un'applicazione destinata alla gestione di processo volta alla suddivisione di uno o più obiettivi in molteplici compiti di calibro inferiore, ognuno con caratteristiche proprie, quali 
+
 Requisiti funzionali: descrivono le funzioni e i servizi che il sistema deve offrire.
 	facile comprensione delle attività da svolgere
 	facile comprensione delle priorità
@@ -9,11 +12,9 @@ Requisiti funzionali: descrivono le funzioni e i servizi che il sistema deve off
 	facile utilizzo delle funzionalità del sito
 
 Requisiti non funzionali: specificano le caratteristiche di qualità (prestazioni, sicurezza, usabilità).
-KKKKKKK
   
 
 Requisiti di dominio: derivano dal contesto applicativo o dalle normative di settore.
   
 
 Requisiti di vincolo: limiti tecnici, economici o organizzativi da rispettare.
-  
