@@ -9,6 +9,7 @@ Requisiti funzionali: descrivono le funzioni e i servizi che il sistema deve off
 	facile utilizzo delle funzionalità del sito
 
 Requisiti non funzionali: specificano le caratteristiche di qualità (prestazioni, sicurezza, usabilità).
+KKKKKKK
   
 
 Requisiti di dominio: derivano dal contesto applicativo o dalle normative di settore.
