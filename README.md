@@ -13,7 +13,6 @@ Requisiti funzionali: descrivono le funzioni e i servizi che il sistema deve off
 	Facile utilizzo delle funzionalità del sito.
 
 Requisiti non funzionali: specificano le caratteristiche di qualità (prestazioni, sicurezza, usabilità).
-	Le operazioni di spostamento (drag & drop o pulsante “Sposta”) devono avvenire in meno di 1 secondo.
 	Il caricamento iniziale della board non deve superare 3 secondi.
 	L’interfaccia deve essere intuitiva e navigabile senza formazione preventiva.
 	Tutti i pulsanti devono essere accessibili anche da tastiera.
