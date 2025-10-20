@@ -1,14 +1,16 @@
 # Kanban-board-Progetto
 progetto di Abeni Nicolò, D'Andria Antonio Niccolò e Perazzoli Niccolò
 
-Viene sviluppata un'applicazione destinata alla gestione di processo volta alla suddivisione di uno o più obiettivi in molteplici compiti di calibro inferiore, ognuno con caratteristiche proprie, quali nome, descrizione, priorità, scadenza e membro del team addetto al completamento dello stesso. È possibile creare nuovi obiettivi (issue) a piacere in base alle proprie necessità e spostarli tra quattro categorie in base allo stato di completamento di ciascuno: "Backlog", "In Progress", "Review" e "Done".
+---INTRODUZIONE E DESCRIZIONE OBIETTIVI---
+È stata sviluppata un'applicazione volta a supportare le persone nella gestione di processi attraverso la suddivisione di uno o più obiettivi principali in molteplici compiti di calibro inferiore volti alla risoluzione, passo passo, dell'obiettivo principale. Ogni obiettivo ha caratteristiche proprie, quali nome, descrizione, priorità e membro del gruppo addetto al completamento dello stesso. È possibile creare nuovi obiettivi (issue) a piacere in base alle necessità e spostarli avanti e indietro tra quattro categorie ("Backlog", "In Progress", "Review" e "Done") in base allo stato di completamento di ciascuno.
+L'obiettivo è di creare un'interfaccia che possa aiutare gli utenti a gestire i propri obiettivi e le proprie scadenze in modo semplice ed efficace e supportarli nel frattempo grazie a delle funzionalità intuitive, un'efficace suddivisione dei ruoli e degli obiettivi da svolgere dai vari membri e una utile funzione di assegnazione delle priorità tra i vari lavori.
 
+---FUNZIONALITÀ E DESCRIZIONE DEGLI OBIETTIVI---
 Requisiti funzionali: descrivono le funzioni e i servizi che il sistema deve offrire.
-	Facile comprensione delle attività da svolgere.
-	Facile comprensione delle priorità.
-	Facile comprensione delle scadenze.
+	Facile comprensione e suddivisione delle attività da svolgere.
+	Facile intuizione delle priorità.
 	Facile comprensione dei ruoli.
-	Facile comprensione dello stato di avanzamento di un progetto.
+	Facile intuizione dello stato di avanzamento di un progetto.
 	Facile comprensione delle funzionalità del sito.
 	Facile utilizzo delle funzionalità del sito.
 
